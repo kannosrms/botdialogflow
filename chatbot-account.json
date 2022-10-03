@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rioclaro820-r9jc",
+  "private_key_id": "3d652aba91205cebb07a7ded7998b10b94e8def6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpKA508ZG6/xNX\nHAQNosCcOP6sN8gI0z3xne4vNg83Y/JvU/MPTPwGRCpzqctMu+M7gzKgN0l9l2W5\nm0Qik8TlEH2CfzCUlDsGRfAfg6PiUtHMnmAiv7fj05p4IoPFaz2iW9tdi+pO1ocd\nPATIvlFMuDumKiZuo7K3qG+lWus80RbFKfX6YAloBHXeCWziGrF5VfF9EGIcu6aE\nyrhrq43a+qZYEWkelw7JxLJ7E0h2/n2+JoqO07GCGX8gnuIOnnANNB+9v6jM5B6g\nInJRZNqjCH4Ahy9wmKSJxk2b0axqXglN8DwpQGWGML6bOeoMrnC6enHprpmJfxUm\nE9TchZQLAgMBAAECggEARMU4O2sKqE+TeVK2gySr0deKElILTSs0f8qJT0BXJ1nG\n8mPa6VmPDK0h5Sweru+kDknkhyZzBlBK1w68wKH65nWx0SAMjBtHc+FzIhzOv/CT\nwvCQfRAcns8kebruf5B92kgmAv4jIDIvdD82YradLuenuIJiZZC/09LysPMpt+tQ\nYkRbghS3yD+vyGAZpzLmZo08hByGYgIzjy7U1pDRHwvoQbo9tYaGYS6W69xoNl4q\njNCpRhbsZfAFYl7TcGov2OwddwJBkOpS0DnK7vu5gf8pYC9QNPYf4VZLIkiPv38B\niDzUZcg/mMNxTAIt6NDwTjPHJ/nwSCiRGV5ktNv1IQKBgQDWeh4+CYJKICo8W2gQ\nchOrV2yPERIzUw10rT9URWWLYfcBMc1C/9Ih22wQvCx67zmf55JjeDXavPF1viMb\n/3DMnvPa3mnhFdCO2g3bKc6U5C4h54SDfveOGfZBDbyE9IjEtgj+ESdLk72N6v0z\nvf0YagWKrxeabO2BbCe/QWNhnQKBgQDJ58Re1J2zUZ6TrDcwyOq43m1o3ZcBabVd\n1YXlJ5B07S+yFeiH5SgLVYdTlqtFGyyCuWCiAg2dnMxN7PRRzsm2AJCILSn2HIBU\nI+OFH0xmb2f9e5VnYJmzUvehUoPSGcx+031avWQIJJ0jjLr7w87jkGhmSiUAtKN5\nfyAGglaPxwKBgQCSMoHk5dRzNMO1itU/yJMRy7ELQKa4Z5eXffTaO8fBIBEgNlNl\npT4WqBxct/hWADW2g0KtHScQqJSrHuWN0yyPvpYZDlz7+kPE7GxfhXr00SmFIOya\nOfUDXz0WEQf9VTbZaABvN0Ai611dnN3l5E7e0n5ej4W2VSP8gb4CR883nQKBgHf2\ncBOUKnrv5NODAGvJBMWAyusCtgUN5Mfy5RJJlqgSgUNDhxyvSEKrt7Mvk2WFBsZJ\nFKRNqf9auX0Xa/brcafk3/s5MnRbbNgRVs6y0PcP/G58rkF1AP2uLxm36EC+OWWl\njRaL7tJzxrXnmPWb2uIU3CLirOelbHf003dqm7njAoGAPPlrFDhXwdVFJOQLyP41\nusEbrwY0zDyI+iXkELzbgEt4bnP8ddG7vNjRUtvQWjnK11H3X1RqDD12vTJvk+ha\nH7A+lUn2ii1ndJae3aoO9EBGOqHpWMwUOPWsI3XPPwU4Wl370C/q0KuE8Ynkj9nx\nmCafneF/hLkXAWJTAMyMiAU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rioclaro820@rioclaro820-r9jc.iam.gserviceaccount.com",
+  "client_id": "101398135380947060103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rioclaro820%40rioclaro820-r9jc.iam.gserviceaccount.com"
+}
